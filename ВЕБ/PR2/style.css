@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+#image{
+    border: 3px solid red;
+    margin: 5px;
+    float: right;
+}
+.text{
+    text-align: left;
+    font-size: 50px;
+    color: white;
+}
+a{
+    text-align: left;
+    font-size: 50px;
+}
+li{
+    list-style-type:lower-alpha;
+}
+a{
+    color: red;
+}
+a:hover{
+    color: white;
+}
